@@ -1,2 +1,16 @@
 kitchen:
-- armchair
+- sink_1
+- burner_stove
+- table_ikea_bjursta
+- chair_ikea_borje2
+
+livingroom:
+- couch_1
+- table_living_room
+
+bedroom:
+- bed_1
+- cabinet_ikea_malm_small
+
+bathroom:
+- bathroom_set

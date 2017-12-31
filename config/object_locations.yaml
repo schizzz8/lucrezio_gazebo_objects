@@ -1,6 +1,54 @@
-armchair:
-  model: armchair
+sink:
+  model: sink_1
   model_type: sdf
-  position: [ -1.5, -1.0, 1.9 ]
-  orientation: [0, 0, 1.570796]
+  position: [ 5.0558, 4.1198, 0.0 ]
+  orientation: [ 0.0, 0.0, 1.57 ]
+  
+burner_stove:
+  model: burner_stove
+  model_type: sdf
+  position: [ 5.0390, 5.1551, 0.0 ]
+  orientation: [ 0.0, 0.0, 3.14 ]
+  
+table_ikea_bjursta:
+  model: table_ikea_bjursta
+  model_type: sdf
+  position: [ 2.8253, 4.6084, 0.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+  
+chair_ikea_borje2:
+  model: chair_ikea_borje2
+  model_type: sdf
+  position: [ 2.8201, 5.4089, 0.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+
+couch:
+  model: couch_1
+  model_type: sdf
+  position: [ 3.8153, 1.1949, 0.0 ]
+  orientation: [ 0.0, 0.0, -1.57 ]
+
+table_living_room:
+  model: table_living_room
+  model_type: sdf
+  position: [ 2.7189, 1.1469, 0.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+
+bed:
+  model: bed_1
+  model_type: sdf
+  position: [ 6.7358, 0.5635, 0.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+
+cabinet_ikea_malm_small:
+  model: cabinet_ikea_malm_small
+  model_type: sdf
+  position: [ 7.5370, 1.3764, 0.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+
+bathroom_set:
+  model: bathroom_set
+  model_type: sdf
+  position: [ 7.4097, 4.0999, 0.0 ]
+  orientation: [ 0.0, 0.0, 3.14 ]
 
