@@ -33,7 +33,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/test/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_back.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_back.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>
@@ -44,7 +44,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/test/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_middle.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_middle.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>
@@ -55,7 +55,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/test/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_left_side.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_left_side.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>
@@ -66,7 +66,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/test/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_middle.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_middle.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>
@@ -77,7 +77,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/test/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_back.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_back.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>
@@ -88,7 +88,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/test/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_right_side.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/materials/textures/couch_right_side.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>

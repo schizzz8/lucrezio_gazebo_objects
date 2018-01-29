@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
-  <model name='table_living_room'>
+  <model name='tomato_sauce'>
     <link name='base_link'>
       <pose frame=''>0 0 0 0 -0 0</pose>
       <inertial>
@@ -22,7 +22,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/models/table_living_room.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/models/tomato_sauce.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>
@@ -31,11 +31,11 @@
       <collision name='base_link_collision'>
         <laser_retro>0</laser_retro>
         <max_contacts>10</max_contacts>
-        <pose frame=''>0 0 0 0 -0 0</pose>
+        <pose frame=''>0 0 0.055 0 -0 0</pose>
         <geometry>
-          <mesh>
-            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/models/table_living_room.dae</uri>
-          </mesh>
+          <box>
+            <size>0.076 0.047 0.11</size>
+          </box>
         </geometry>
         <surface>
           <friction>

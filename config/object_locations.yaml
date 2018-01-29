@@ -52,3 +52,33 @@ bathroom_set:
   position: [ 1.18786466964, -3.31917666627, 0.0 ]
   orientation: [ 0.0, 0.0, 1.57 ]
 
+corn_flakes_package:
+  model: corn_flakes_package
+  model_type: sdf
+  position: [ -1.41423, 2.12579, 1.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+
+milk:
+  model: milk
+  model_type: sdf
+  position: [ -1.61423, 2.32579, 1.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+
+salt:
+  model: salt
+  model_type: sdf
+  position: [ -1.41423, 2.32579, 1.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+
+tomato_sauce:
+  model: tomato_sauce
+  model_type: sdf
+  position: [ -1.61423, 2.12579, 1.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+
+zwieback:
+  model: zwieback
+  model_type: sdf
+  position: [ -1.21423, 2.12579, 1.0 ]
+  orientation: [ 0.0, 0.0, 0.0 ]
+

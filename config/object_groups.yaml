@@ -1,4 +1,4 @@
-kitchen:
+itchen:
 - sink_1
 - burner_stove
 - table_ikea_bjursta
@@ -14,3 +14,10 @@ bedroom:
 
 bathroom:
 - bathroom_set
+
+food:
+- corn_flakes_package
+- milk
+- salt
+- tomato_sauce
+- zwieback

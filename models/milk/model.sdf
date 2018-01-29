@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
-  <model name='table_living_room'>
-    <link name='base_link'>
+  <model name='milk'>
+    <link name='box_body'>
       <pose frame=''>0 0 0 0 -0 0</pose>
       <inertial>
         <pose frame=''>0 0 0 0 -0 0</pose>
@@ -17,25 +17,25 @@
       </inertial>
       <self_collide>0</self_collide>
       <kinematic>0</kinematic>
-      <visual name='base_link_visual'>
-        <pose frame=''>0 0 0 0 -0 0</pose>
+      <visual name='box_body_visual'>
+        <pose frame=''>0 0 0 0 -0 1.5708</pose>
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/models/table_living_room.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/models/milk.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>
         <transparency>0</transparency>
       </visual>
-      <collision name='base_link_collision'>
+      <collision name='box_body_collision'>
         <laser_retro>0</laser_retro>
         <max_contacts>10</max_contacts>
-        <pose frame=''>0 0 0 0 -0 0</pose>
+        <pose frame=''>0 0 0.1 0 -0 0</pose>
         <geometry>
-          <mesh>
-            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/models/table_living_room.dae</uri>
-          </mesh>
+          <box>
+            <size>0.06 0.095 0.2</size>
+          </box>
         </geometry>
         <surface>
           <friction>

@@ -22,7 +22,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/dede/workspaces/test/src/cob_simulation/cob_gazebo_objects/Media/models/bed.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/models/bed.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>1</cast_shadows>
@@ -34,7 +34,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/dede/workspaces/test/src/cob_simulation/cob_gazebo_objects/Media/models/bed.dae</uri>
+            <uri>/home/dede/workspaces/lucis/src/cob_simulation/cob_gazebo_objects/Media/models/bed.dae</uri>
           </mesh>
         </geometry>
         <surface>
