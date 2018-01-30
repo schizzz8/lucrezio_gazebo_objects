@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-
+<?xml version="1.0" ?>
 <sdf version="1.5">
   <model name="burner_stove">
     <link name="link">
@@ -8,7 +7,6 @@
         <geometry>
           <mesh>
             <uri>model://burner_stove/meshes/model.dae</uri>
-            <scale>1.0 1.0 1.0</scale>
           </mesh>
         </geometry>
       </collision>
@@ -16,7 +14,6 @@
         <geometry>
           <mesh>
             <uri>model://burner_stove/meshes/model.dae</uri>
-            <scale>1.0 1.0 1.0</scale>
           </mesh>
         </geometry>
       </visual>

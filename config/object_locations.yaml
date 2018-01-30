@@ -1,17 +1,17 @@
 bed:
-  model: bed_1
+  model: bed
   model_type: sdf
   position: [ -2.15291190147, -2.62278294563, 0.0 ]
   orientation: [ 0.0, 0.0, -1.57 ]
 
 sink:
-  model: sink_1
+  model: sink
   model_type: sdf
   position: [ 1.24171398032, -0.94286456318, 0.0 ]
   orientation: [ 0.0, 0.0, 3.14 ]
   
 burner_stove:
-  model: burner_stove_1
+  model: burner_stove
   model_type: sdf
   position: [ 2.13275506255, -0.915840491309, 0.0 ]
   orientation: [ 0.0, 0.0, -3.14 ]
@@ -22,14 +22,14 @@ table_ikea_bjursta:
   position: [ 1.77236080355, 1.38153609543, 0.0 ]
   orientation: [ 0.0, 0.0, 0.0 ]
     
-chair_ikea_borje2:
-  model: chair_ikea_borje2
+chair_ikea_borje:
+  model: chair_ikea_borje
   model_type: sdf
   position: [ 1.71637, 1.95474, 0.0 ]
   orientation: [ 0.0, 0.0, 0.0 ]
 
-couch_1:
-  model: couch_1
+couch:
+  model: couch
   model_type: sdf
   position: [ -1.39630586056, 0.261605174699, 0.0 ]
   orientation: [ 0.0, 0.0, 3.14 ]
@@ -52,33 +52,27 @@ bathroom_set:
   position: [ 1.18786466964, -3.31917666627, 0.0 ]
   orientation: [ 0.0, 0.0, 1.57 ]
 
-corn_flakes_package:
-  model: corn_flakes_package
-  model_type: sdf
-  position: [ -1.41423, 2.12579, 1.0 ]
-  orientation: [ 0.0, 0.0, 0.0 ]
-
 milk:
   model: milk
   model_type: sdf
-  position: [ -1.61423, 2.32579, 1.0 ]
+  position: [ -1.41423, 2.32579, 0.5 ]
   orientation: [ 0.0, 0.0, 0.0 ]
 
 salt:
   model: salt
   model_type: sdf
-  position: [ -1.41423, 2.32579, 1.0 ]
+  position: [ -1.31423, 2.12579, 0.5 ]
   orientation: [ 0.0, 0.0, 0.0 ]
 
 tomato_sauce:
   model: tomato_sauce
   model_type: sdf
-  position: [ -1.61423, 2.12579, 1.0 ]
+  position: [ -1.51423, 1.72579, 0.5 ]
   orientation: [ 0.0, 0.0, 0.0 ]
 
 zwieback:
   model: zwieback
   model_type: sdf
-  position: [ -1.21423, 2.12579, 1.0 ]
+  position: [ -1.21423, 1.82579, 0.5 ]
   orientation: [ 0.0, 0.0, 0.0 ]
 
